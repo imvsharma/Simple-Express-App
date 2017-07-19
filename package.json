@@ -1,0 +1,37 @@
+{
+  "name": "express-starter-app",
+  "version": "1.0.0",
+  "description": "Express Starter App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsvaibhav/Simple-Express-App.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "express",
+    "javascript",
+    "js",
+    "vaibhav",
+    "frontend",
+    "developer",
+    "backend",
+    "developer",
+    "Nodejs",
+    "Express",
+    "JS"
+  ],
+  "author": "Vaibhav Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsvaibhav/Simple-Express-App/issues"
+  },
+  "homepage": "https://github.com/vsvaibhav/Simple-Express-App#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
